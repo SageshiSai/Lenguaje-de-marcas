@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ciudades>
+    <ciudad>
+        <nombre>
+            Nueva Delhi
+        </nombre>
+        <pais contienente="Ásia">India</pais>
+    </ciudad>
+    <ciudad>
+        <nombre>
+            Lisboa
+        </nombre>
+        <pais contienente="Europa">Portugal</pais>
+    </ciudad>
+    <ciudad>
+        <nombre>
+            El Cairo
+        </nombre>
+        <pais contienente="África">Egipto</pais>
+    </ciudad>
+</ciudades>
