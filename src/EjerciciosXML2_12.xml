@@ -1,0 +1,13 @@
+<jugadores>
+	<nombre_equipo>Real</nombre_equipo>
+	<jugador>
+		<nombre>Pepito</nombre>
+		<dirección>Errobi 1</dirección>
+		<direction2>datua</direction2>
+		<_apellido>Grillo</_apellido>
+    </jugador>
+	<jugador>
+		<izen.abizenak>Jon Braun</izen.abizenak>
+		<kalea_eta_zenbakia>Errobi 2</kalea_eta_zenbakia>
+	</jugador>
+</jugadores>

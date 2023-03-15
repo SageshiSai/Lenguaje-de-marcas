@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TRABAJADORES>
+<TRABAJADOR>
+    <DATOS_PERSONALES>
+        <NOMBRE>
+            JON
+        </NOMBRE>
+        <APELLIDO>
+            BRAUN
+        </APELLIDO>
+    </DATOS_PERSONALES>
+    <DATOS_LABORALES>
+        <NOMINA>
+            <IMPORTE DIVISA="EURO">1000</IMPORTE>
+        </NOMINA>
+        <OFICINA>
+            <CALLE>
+                ERROBI &gt; A
+            </CALLE>
+            <NUM>
+                1
+            </NUM>
+        </OFICINA>
+    </DATOS_LABORALES> 
+</TRABAJADOR>
+
+<TRABAJADOR>
+    <DATOS_PERSONALES>
+        <NOMBRE>
+            PEPE
+        </NOMBRE>
+        <APELLIDO>
+            GRILLO
+        </APELLIDO>
+    </DATOS_PERSONALES>
+    <DATOS_LABORALES>
+        <NOMINA>
+            <IMPORTE DIVISA="DOLAR">1100</IMPORTE>
+        </NOMINA>
+        <OFICINA>
+            <CALLE>
+                ERROBI &gt; B
+            </CALLE>
+            <NUM>
+                12
+            </NUM>
+        </OFICINA>
+    </DATOS_LABORALES> 
+</TRABAJADOR>
+</TRABAJADORES>
