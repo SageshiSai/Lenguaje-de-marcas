@@ -17,7 +17,15 @@
                 <xs:element name="libros"  minOccurs="5" maxOccurs="unbounded">
                     <xs:complexType>
                         <xs:sequence>
-                            <xs:element name="libro"></xs:element>
+                            <xs:element name="libro">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="titulo" type="xs:string"></xs:element>
+                                        <xs:element name="autor" type="xs:string"></xs:element>
+                                    </xs:sequence>
+                                    <xs:attribute name="ISBN" type="xs:string"/>
+                                </xs:complexType>
+                            </xs:element>
                         </xs:sequence>
                     </xs:complexType>
                 </xs:element>
